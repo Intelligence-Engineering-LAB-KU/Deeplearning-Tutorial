@@ -10,8 +10,8 @@ TensorFlow Playground의 [XOR Classification](https://playground.tensorflow.org/
 
 ![fig1](imgs/hw1_fig1.png)
 
-- 4개의 히든레이어를 가지고 있으며 각 히든레이어에는 뉴런의 수도 충분히 많음에도 학습이 이뤄지지 않은 이유를 밝히고 (20점),
-- 이 구조를 수정하여 원활한 Classification이 이루어질 수 있는 구조를 제시하십시오. (20점)
+- 4개의 히든레이어를 가지고 있는데다가, 각 히든레이어에는 뉴런의 수도 충분히 많음에도, 학습이 원활하게 이뤄지지 않은 이유를 밝히십시오. (20점),
+- 위 구조를 수정하여 원활한 Classification이 이루어질 수 있는 구조를 제시하십시오. (20점)
   - 위 그림과 같이 Learning rate 등의 Hyperparameter들과 망 구조, Classification 결과 가 모두 보이도록 화면을 캡쳐하여 제출해주십시오.
 
 ## 2. Classifying a XOR Datasets in TensorFlow Playground (60점)
