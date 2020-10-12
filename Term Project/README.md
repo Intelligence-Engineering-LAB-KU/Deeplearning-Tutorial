@@ -65,3 +65,10 @@
     - 논문 모델 구현 및 시연 (Optional): PyTorch, TensorFlow 등으로 모델 구현 및 시연
 
 - 제출 내용: 발표 슬라이드
+    - 발표 시간이 5분내외이므로 핵심만 발표하되,
+    - 슬라이드 내에는 평가 내용에 관련된 부분이 모두 들어가 있어야 함
+
+- 발표 슬라이드 예시
+    - [SinGAN: Learning a Generative Model from a Single Natural Image](https://github.com/Intelligence-Engineering-LAB-KU/Seminar/blob/master/summer_2020/0915_jinsung_sinGAN_review.pdf)
+    - [A Spelling Correction Model for End-to-End Speech Recognitoin](https://github.com/Intelligence-Engineering-LAB-KU/Seminar/blob/master/summer_2020/0915_yeongseok_SC_review.pdf)
+    - [Learning Deep Features for Discriminative Localization](https://github.com/Intelligence-Engineering-LAB-KU/Seminar/blob/master/summer_2020/Sungmin%20Kim/Learning%20Deep%20Features%20for%20Discriminative%20Localization.ipynb)
