@@ -4,7 +4,7 @@
 
 - 계획: 11월 07일 23시 59분
 - 중간보고: 11월 30일 23시 59분
-- 발표: 12월 12일 14시 예정 (변경가능)
+- 발표: 12월 12일 (2~3개의 세션으로 나누어 진행)
 
 ## 텀 프로젝트 내용
 
@@ -12,9 +12,6 @@
     - 개인발표
     - 1인당 논문 1편 발표하되
     - 발표시간: 5분 이내
-    - (Optional) 논문 구현 또는 시연
-        - 직접 구현 시 가산점 (+10점)
-        - Github 등에서 소스를 가져와 시연할시 가산점 (+5점)
 
 - 논문 선정 조건
     1. [링크](https://github.com/terryum/awesome-deep-learning-papers)에 나열된 논문 중 다음 카테고리 하위에 위치한 논문
@@ -54,21 +51,20 @@
 
 - (참고) 발표 x, 슬라이드만 제출
 
-#### 최종발표: 12월 12일 14시 예정 (변경가능)
+#### 최종발표 (60점): 12월 12일 14시 예정 (변경가능)
 
 - 평가 내용
     - 관련 연구에 대한 소개
     - 논문 동기에 대한 설명
-    - 논문의 핵심 기법에 대한 설명 (30점): 핵심이론 (수식 포함)에 대한 충분한 설명
+    - 논문의 핵심 기법에 대한 설명 (50점): 핵심이론 (수식 포함)에 대한 충분한 설명
     - 논문에 대한 개선점 (10점): 해당 논문의 의의 및 한계에 대한 비판적 분석
-    - 항후 연구계획 (10점): 해당논문 이후에 수행할 연구에 대한 내용 발표
-    - 논문 모델 구현 및 시연 (Optional): PyTorch, TensorFlow 등으로 모델 구현 및 시연
+
 
 - 제출 내용: 발표 슬라이드
-    - 발표 시간이 5분내외이므로 핵심만 발표하되,
-    - 슬라이드 내에는 평가 내용에 관련된 부분이 모두 들어가 있어야 함
+    - 발표 시간이 5분내외이므로 연구 소개 및 동기를 제외하고 핵심과 개선점 위주로 발표하되,
+    - 슬라이드 내에는 관련 부분이 모두 들어가 있어야 함
 
-- 발표 슬라이드 예시
+- 발표 슬라이드 예시 (30분 내외 발표자료)
     - [SinGAN: Learning a Generative Model from a Single Natural Image](https://github.com/Intelligence-Engineering-LAB-KU/Seminar/blob/master/summer_2020/0915_jinsung_sinGAN_review.pdf)
     - [A Spelling Correction Model for End-to-End Speech Recognitoin](https://github.com/Intelligence-Engineering-LAB-KU/Seminar/blob/master/summer_2020/0915_yeongseok_SC_review.pdf)
     - [Learning Deep Features for Discriminative Localization](https://github.com/Intelligence-Engineering-LAB-KU/Seminar/blob/master/summer_2020/Sungmin%20Kim/Learning%20Deep%20Features%20for%20Discriminative%20Localization.ipynb)
