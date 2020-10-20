@@ -13,7 +13,7 @@
     - 1인당 논문 1편 발표하되
     - 발표시간: 5분 이내
 
-- 논문 선정 조건
+- 논문 선정 조건 (둘 중 하나만 만족하면 됨)
     1. [링크](https://github.com/terryum/awesome-deep-learning-papers)에 나열된 논문 중 다음 카테고리 하위에 위치한 논문
         - Understanding / Generalization / Transfer
         - Optimization / Training Techniques
