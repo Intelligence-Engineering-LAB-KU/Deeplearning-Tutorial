@@ -42,6 +42,6 @@
 - 류*미 Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, Yoshua Bengio. A Structured Self-attentive Sentence Embedding. ICLR 2017 arXiv:1703.03130
 - 선*일 Sarlin, P. E., DeTone, D., Malisiewicz, T., & Rabinovich, A. (2020). Superglue: Learning feature matching with graph neural networks. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 4938-4947)
 - 김*희 Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation NIPS 2019)
-- ?? Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting, NIPS
+- 박*환 Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting, NIPS
 - 남*현 Wang, Ziyue, et al. "IFlyLegal: A Chinese Legal System for Consultation, Law Searching, and Document Analysis." Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP): System Demonstrations. 2019.
 
