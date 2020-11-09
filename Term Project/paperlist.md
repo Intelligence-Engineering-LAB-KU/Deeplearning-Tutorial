@@ -9,10 +9,8 @@
 현제까지 제출된 발표논문 리스트입니다. 
 
  
-- ```최*식```, ```임*종 ```: You Only Look Once: Unified, Real-Time Object Detection (2016, J. Redmon et al.)  (논문 선정조건 1) 
-  - 두 분이 같은 논문을 선택하셨습니다. 앞으로 이 논문은 가급적이면 피해주시기 바랍니다.
-  - 두 분은 해당 논문으로 발표 준비해주시면 됩니다. 가급적 다른 세션에서 발표되도록 노력해보겠습니다. 
-- 유*, 정일경 Dropout: A simple way to prevent neural networks from overfitting (2014), N. Srivastava et al
+- ```최*식```, ```임*종 ```: You Only Look Once: Unified, Real-Time Object Detection (2016, J. Redmon et al.)  
+- ```유*```, ```정*경``` Dropout: A simple way to prevent neural networks from overfitting (2014), N. Srivastava et al
   - 두 분이 같은 논문을 선택하셨습니다. 앞으로 이 논문은 가급적이면 피해주시기 바랍니다.
   - 두 분은 해당 논문으로 발표 준비해주시면 됩니다. 가급적 다른 세션에서 발표되도록 노력해보겠습니다. 
   
