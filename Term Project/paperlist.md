@@ -42,6 +42,12 @@
 - 이*철 Distilling the knowledge in a neural network (2015), G. Hinton et al.
 - 장*연 Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2015), S. Ren et al.
 - 주*환 Teaching machines to read and comprehend (2015), K. Hermann et al.
+- 이*연 Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs (2015), M. Ballesteros et al. 
+- 유*진 Exploring the limits of language modeling (2016), R. Jozefowicz et al.
+- 김*현 ImageNet classification with deep convolutional neural networks (2012), A. Krizhevsky et al
+- 서*석 Deep neural networks are easily fooled: High confidence predictions for unrecognizable images (2015), A. Nguyen et al
+- 이*진 Fast R-CNN (2015), R. Girshick
+- 홍*민 Deep Reinforcement Learning with Double Q-Learning (2016), H. Hasselt et al
 
 
 2. 논문선정조건 2
@@ -52,4 +58,10 @@
 - 김*희 Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation NIPS 2019)
 - 박*환 Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting, NIPS
 - 남*현 Wang, Ziyue, et al. "IFlyLegal: A Chinese Legal System for Consultation, Law Searching, and Document Analysis." Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP): System Demonstrations. 2019.
+- 정*수 Simon Ramstedt, Chris Pal “Real-Time Reinforcement Learning.” Part of Advances in Neural Information Processing Systems 32 (NeurIPS 2019)
 
+3. 예외
+
+- 라*우 Ming, Liu, et al. "Semi-Active Suspension Control Based on Deep Reinforcement Learning." IEEE Access 8 (2020): 9978-9986.
+ - Top Conference는 아니지만 SCI(E) 저널이며, 해당분야 종사자인 발표자 업무에 도움이 되는 내용
+- 
