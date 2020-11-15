@@ -1,7 +1,6 @@
-
-> 11월 11일~13일 출장일정이 많아서 목록 업데이트는 토요일에 하겠습니다. 죄송합니다.
-
 > arXiv는 preprint논문으로, peer-reviewed되지 않은 페이퍼입니다. 간혹 컨퍼런스에 accept된 논문이 preprint형식으로 나와있는 경우가 있는데, 이 경우에는 발표하셔도 되는 논문이지만 arXiv에만 게재된 논문의 경우 논문 선정 조건을 충족하지 않습니다. 
+
+> 논문 1,2 를 충족하지 않으나, 해당 분야에 종사하고 있으며 해당 논문이 deep learning을 다루고 있는 top conference 및 sci 저널은 예외적으로 발표논문으로 인정합니다. 
 
 ---
 
@@ -63,5 +62,5 @@
 3. 예외
 
 - 라*우 Ming, Liu, et al. "Semi-Active Suspension Control Based on Deep Reinforcement Learning." IEEE Access 8 (2020): 9978-9986.
- - Top Conference는 아니지만 SCI(E) 저널이며, 해당분야 종사자인 발표자 업무에 도움이 되는 내용
-- 
+  - Top Conference는 아니지만 SCI(E) 저널이며, 해당분야 종사자인 발표자 업무에 도움이 되는 내용
+
