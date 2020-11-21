@@ -58,6 +58,8 @@
 - 박*환 Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting, NIPS
 - 남*현 Wang, Ziyue, et al. "IFlyLegal: A Chinese Legal System for Consultation, Law Searching, and Document Analysis." Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP): System Demonstrations. 2019.
 - 정*수 Simon Ramstedt, Chris Pal “Real-Time Reinforcement Learning.” Part of Advances in Neural Information Processing Systems 32 (NeurIPS 2019)
+- 김*수 Singh, Abhishek, Debojyoti Dutta, and Amit Saha. "Migan: malware image synthesis using gans." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.
+
 
 3. 예외
 
