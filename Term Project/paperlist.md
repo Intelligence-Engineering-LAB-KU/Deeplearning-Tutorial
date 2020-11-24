@@ -47,7 +47,7 @@
 - 서*석 Deep neural networks are easily fooled: High confidence predictions for unrecognizable images (2015), A. Nguyen et al
 - 이*진 Fast R-CNN (2015), R. Girshick
 - 홍*민 Deep Reinforcement Learning with Double Q-Learning (2016), H. Hasselt et al
-
+- 강*식 Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014
 
 2. 논문선정조건 2
  
